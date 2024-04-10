@@ -14,4 +14,6 @@ Aplicação que lista pessoas convidadas para um evento.
 - Interfaces para tipagem
 - Icones com biblioteca **lucide-react**
 
+### Link Figma: https://www.figma.com/file/sMF16QExOKQD2wvNYbGkZd/pass.in-(Community)?type=design&t=EDJBmhAzcvZI9EyR-6
+
 ![alt text](https://media.licdn.com/dms/image/D4D22AQGXxMV2-b5X-A/feedshare-shrink_800/0/1712242165890?e=2147483647&v=beta&t=6Dw_RpEKwt4xe3OFZUEXiltCzlzEMNjWn9NBCNNlJgA  'Ken Block rip')
