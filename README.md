@@ -2,7 +2,7 @@
  
 Aplicação que lista pessoas convidadas para um evento.
 
-### Conteúdos importantes
+### Conteúdos importantes aprendidos
 
 - **Tailwind**
 - Criação de tabela
